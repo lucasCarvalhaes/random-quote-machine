@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Random Quote Machine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project proposed by https://www.freecodecamp.org/
+It is a simple quote fetcher built with React that will show you a quote, fetched from an api.
+You can get a new quote by clicking New Quote and use the twitter anchor to tweet it.
+
+<img src='./screenshot.png'>
 
 ## Available Scripts
 
